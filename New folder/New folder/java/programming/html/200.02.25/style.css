@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url(cover.jpg);
+    background-size: center;
+    background-position: center;
+    box-sizing: border-box;
+    height: 100%;
+    background-repeat: no-repeat;
+}
+
+.menu-heseg-shuu {
+    background: red;
+    text-align: right;
+}
+
+.menu-heseg-shuu ul {
+    display: inline-flex;
+    list-style: none;
+    color: #fff;
+}
+
+.menu-heseg-shuu ul li {
+    width: 120px;
+    margin: 15px;
+    padding: 15px;
+}

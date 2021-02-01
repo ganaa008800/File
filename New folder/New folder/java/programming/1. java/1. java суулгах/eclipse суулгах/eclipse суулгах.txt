@@ -1,0 +1,24 @@
+﻿eclipse суулгах 
+2019.08.05
+
+Java JDK суулгасны дараа eclipse суулган.
+
+1. https://www.eclipse.org/downloads - аас тат.
+2. татсан eclipse ажилуул 
+3. баруун дээд буланд байгаа анхаарлын тэмдэгрүү ороод update уншуул
+4. Eclipse IDE for Java Developers ор.
+5. install 
+6. accept 
+7. checkleed accept
+8. launch
+9.  launch
+10. зүүн дээд буланд х гар  
+11. ok thank you 
+
+12. file - new - java project - project name дээр my project гэж бичээд 
+13. next 
+14. finish 
+15. myproject дээр хулганы баруун товчоо дараад 
+16. new - class- name дээр my class гэж бичээд 
+17. public static void main (string [] args) шагтал
+18. 

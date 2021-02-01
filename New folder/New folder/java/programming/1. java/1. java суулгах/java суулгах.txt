@@ -1,0 +1,27 @@
+﻿java суулгах 
+ 2019.08.06
+
+1. java jdk тат
+2. https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+3.  Java SE Development Kit 8u221 - Accept License Agreement  чагтал
+4. Windows x64	215.35 MB  	jdk-8u221-windows-x64.exe тат
+5. Oracle account sign in нэвтэр шууд татагдан
+6. jdk-8u221-windows-x64 татсан installaa open
+7. next 
+8. next
+9. next - 3 Billion device running гэж гарч ирнэ. 
+10. close 
+
+11. C:\Program Files\Java орж jdk jre болгож нэрийн өөрчил
+12. my computer - properties - advanced system setting - enviranment Variables 
+13. System variables- PAtch C:\Program Files (x86)\Common Files\Oracle\Java\javapath;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk\bin
+14. Дунд заавал ; тавь
+15. cmd дээр javac гэж бичиж үз тайлбарууд гарч ирнэ.
+
+16. my computer - properties - advanced system seetting - enviranment Variables 
+17. User variables for computer - new - variable name: дээр JAVA_HOME гэж бич. 
+18.      				variable value: C:\Program Files\Java\jdk хуулж тавиад ok дар 
+19. ok 
+20. ok 
+
+21. ok thank you 
